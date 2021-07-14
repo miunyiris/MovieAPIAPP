@@ -1,0 +1,30 @@
+
+†
+java:S1319;"pThe type of the "lista" object should be an interface such as "List" rather than the implementation "ArrayList".(¬†––
+J
+java:S37401"/Provide the parametrized type for this generic.(çè£¼ûÿÿÿÿ
+J
+java:S37401"/Provide the parametrized type for this generic.(çè£¼ûÿÿÿÿ
+E
+java:S3740;"/Provide the parametrized type for this generic.(¬†––
+W
+java:S1128
+"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8Ž¯¹¯ª/
+H
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+R
+java:S1128"5Remove this unused import 'com.bumptech.glide.Glide'.(Ñˆ…Ë8—Ïº¯ª/
+n
+java:S1128"QRemove this unused import 'com.example.movies.Network.Model.Movie.MovieResponse'.(æ—Ž›8—Ïº¯ª/
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÁƒÞ±
+V	java:S125"<This block of commented-out lines of code should be removed.(ã€ˆúÿÿÿÿ
+o	java:S116$"URename this field "BASE_IMAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‹ü£ýÿÿÿÿ
+<
+java:S1170$"!Make this final field static too.(¸‹ü£ýÿÿÿÿ
+B
+java:S1172;",Remove this unused method parameter "lista".(¬†––
+Q	java:S125X"<This block of commented-out lines of code should be removed.(ÐÁýÎ
+I
+java:S1068$".Remove this unused "BASE_IMAGE" private field.(¸‹ü£ýÿÿÿÿ
+F
+java:S1068("+Remove this unused "service" private field.(‰¯øñøÿÿÿÿ

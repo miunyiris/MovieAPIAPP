@@ -1,0 +1,28 @@
+
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¸ª°8Äœ¿¯ª/
+n	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¯‰¯8Å•¾¯ª/
+>
+java:S1604c"(Make this anonymous inner class a lambda(àòïØ
+K
+java:S1604¥"(Make this anonymous inner class a lambda(‰¾ŒÅùÿÿÿÿ8…Ñ¿¯ª/
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8‰¾¿¯ª/
+q
+java:S1128"TRemove this unused import 'com.example.movies.Network.ListOfMovies.PopularResponse'.(ñœ»ó8¾ú½¯ª/
+N
+java:S1128"3Remove this unused import 'android.graphics.Color'.(øãíòşÿÿÿÿ
+y
+java:S14501"^Remove the "textViewReviews" field and declare it as a local variable in the relevant methods.(Ãï’Ÿüÿÿÿÿ
+h	java:S1165"NRename this field "Btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ÷Ô²ùÿÿÿÿ
+\
+java:S1854B"ARemove this useless assignment to local variable "layoutManager".(ıÒÑøÿÿÿÿ
+b
+java:S1854Ÿ"DRemove this useless assignment to local variable "YOUTUBE_BASE_URL".(Ö¯‰¯8üœ¿¯ª/
+M
+java:S1481B"2Remove this unused "layoutManager" local variable.(ıÒÑøÿÿÿÿ
+S
+java:S1481Ÿ"5Remove this unused "YOUTUBE_BASE_URL" local variable.(Ö¯‰¯8‡¿¯ª/
+N
+java:S10681"3Remove this unused "textViewReviews" private field.(Ãï’Ÿüÿÿÿÿ
+Q
+java:S10689"/Remove this unused "favItemList" private field.(‰«è×úÿÿÿÿ8êÜ¤¯ª/

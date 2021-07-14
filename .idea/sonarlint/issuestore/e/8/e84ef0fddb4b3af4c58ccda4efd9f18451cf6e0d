@@ -1,0 +1,6 @@
+
+]
+java:S1192$"GDefine a constant instead of duplicating this literal " TEXT," 4 times.(ÿƒÄË
+f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øñõ¨
+p
+java:S3008"URename this field "DB_VERSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉóÅ¼ùÿÿÿÿ

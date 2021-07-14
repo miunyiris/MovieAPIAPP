@@ -1,0 +1,13 @@
+
+3
+java:S1700""Rename field "favoritos"(Ûú­õıÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'retrofit2.Retrofit'.(ŠĞİ
+n
+java:S1450"XRemove the "imageView" field and declare it as a local variable in the relevant methods.(øû¯
+Z
+java:S1854F"?Remove this useless assignment to local variable "preferences".(ÔáŸàúÿÿÿÿ
+K
+java:S1481F"0Remove this unused "preferences" local variable.(ÔáŸàúÿÿÿÿ
+C
+java:S1068"-Remove this unused "imageView" private field.(øû¯

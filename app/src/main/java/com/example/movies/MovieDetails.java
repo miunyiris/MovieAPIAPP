@@ -90,7 +90,7 @@ public class MovieDetails extends AppCompatActivity {
             id = extra.getInt("ID");
         }
 
-        details.fetchMovieItem(id, "3c5532209962dd9b327ff047998d354e").enqueue(new Callback<MovieResponse>() {
+        details.fetchMovieItem(id, "1b331259837a3ef33d777aea65e05723").enqueue(new Callback<MovieResponse>() {
             @Override
             public void onResponse(Call<MovieResponse> call, Response<MovieResponse> response) {
 
@@ -148,7 +148,7 @@ public class MovieDetails extends AppCompatActivity {
 
     private void mostrarDados() {
 
-        trailer.fetchTrailer(id, "3c5532209962dd9b327ff047998d354e").enqueue(new Callback<TrailerResponse>() {
+        trailer.fetchTrailer(id, "1b331259837a3ef33d777aea65e05723").enqueue(new Callback<TrailerResponse>() {
             @Override
             public void onResponse(Call<TrailerResponse> call, Response<TrailerResponse> response) {
 

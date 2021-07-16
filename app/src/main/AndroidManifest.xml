@@ -4,6 +4,7 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
 
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -11,13 +12,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Movies">
-        <activity android:name=".Favoritos"></activity>
+        <activity android:name=".Views.Favoritos"></activity>
         <activity
-            android:name=".MovieDetails"
-            android:parentActivityName=".MainActivity"></activity>
-        <activity android:name=".MainActivity">
+            android:name=".Views.SecondView.MovieDetailsActivity"
+            android:parentActivityName=".Views.MainView.MainActivity"></activity>
+        <activity android:name=".Views.MainView.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
